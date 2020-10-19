@@ -1,30 +1,52 @@
-font-family:;
-font-family:;
-font-size:;
-font-size:;
-color:;
-color:;
-color:;
-line-height:;
-line-height:;
-text-align:;
-text-align:;
-font-weight:;
+h1,h2{
+	font-family:serif;
+	text-align:center;
+	font-weight:bold;
+	margin:;
+	padding:;
+	line-height:;
+	background-color:#BA7BA1;
+}
+
+h1{
+	font-size: 72pt;
+	color:#EDCF8E;
+	border:double;
+}
+h2{
+	font-size:48pt;
+	color:#DEC4A1;
+	border:dotted;
+}
+
+div{
+	font-family:;
+	margin:;
+	padding:;
+	color:blue;
+	line-height:;
+	text-align:left;
+}
+
+
+
+
+
+
+
 letter-spacing:
 letter-spacing:
 letter-spacing:
+
 background-color:;
 background-color:;
-background-color:;
+
 margin:;
-margin:;
-margin:;
+
 padding:;
-padding:;
-padding:;
+
 border:;
-border:;
-border:;
+
 border-radius:;
 border-radius:;
 z-index:;
